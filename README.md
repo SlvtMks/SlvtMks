@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlvtMks
-- 👀 I’m interested in Python :)
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Backend
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Python, ML, ...
+- 💞️ I’m looking to collaborate on learning ML engineering 
 - 📫 You can reach me by email: senpai1303@gmail.com
 
 <!---
