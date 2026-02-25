@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SlvtMks
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python, ML, ...
-- 💞️ I’m looking to collaborate on learning ML engineering 
-- 📫 You can reach me by TG: @slvtmks
+🧭 About me
+- 👀 Interested in Data Science
+- 🌱 Currently learning: Python (data stack), ML, statistics, SQL
+- 🧱 Building a portfolio: from data → EDA → model → evaluation → results
+- 🤝 Open to collaboration: study projects, code reviews, ML engineering learning together
+- 🎯 Looking for junior Data Scientist / ML opportunities (remote)
 
 <!---
 SlvtMks/SlvtMks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
