@@ -1,10 +1,20 @@
 
-
 ## 🧭 About me
-- 👀 Interested in **Data Science** and **Machine Learning**
-- 🌱 Learning and practicing: **Python (data stack), SQL, statistics, ML**
-- 🧱 Building a portfolio: **data → EDA → baseline → modeling → evaluation → conclusions**
-- 🤝 Open to collaboration: **study projects, code reviews, ML practice**
-- 🎯 Looking for **Junior Data Scientist / ML** opportunities
+- Data specialist: **SQL + Python (pandas) + BI/EDA + базовый ML**
+- Делаю **аналитику для решений**: витрины/выгрузки, метрики, EDA, сегментации, выводы и рекомендации
+- Могу собрать **baseline ML** под задачу (классификация/регрессия): подготовка данных → валидация → метрики → интерпретация
 
+## 🧰 Stack
+**SQL** (joins, aggregations, window functions) · **Python** (pandas, NumPy) · **ML** (scikit-learn baseline) ·  
+**BI** (Power BI) · **Git** · **Linux** · **Statistics** (основы A/B, доверительные интервалы)
+
+## 📁 Portfolio roadmap (in progress)
+- [ ] Data prep & quality checks (dataset, missing/outliers)
+- [ ] EDA + ключевые драйверы (гипотезы, сегменты)
+- [ ] Baseline model (logreg/tree/boosting) + корректная валидация
+- [ ] Метрики под бизнес (PR-AUC / Recall@K / Precision@K, выбор порога)
+- [ ] Итоговый отчёт: **что делать бизнесу** + как измерять эффект
+
+## 🎯 Open to roles
+**Data Analyst / Аналитик данных** · **Analyst + ML (Advanced Analytics)** · **Junior DS (classic ML baseline)**
 
