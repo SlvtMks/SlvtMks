@@ -1,20 +1,7 @@
 
 ## 🧭 About me
-- Data specialist: **SQL + Python (pandas) + BI/EDA + базовый ML**
-- Делаю **аналитику для решений**: витрины/выгрузки, метрики, EDA, сегментации, выводы и рекомендации
-- Могу собрать **baseline ML** под задачу (классификация/регрессия): подготовка данных → валидация → метрики → интерпретация
-
-## 🧰 Stack
-**SQL** (joins, aggregations, window functions) · **Python** (pandas, NumPy) · **ML** (scikit-learn baseline) ·  
-**BI** (Power BI) · **Git** · **Linux** · **Statistics** (основы A/B, доверительные интервалы)
-
-## 📁 Portfolio roadmap (in progress)
-- [ ] Data prep & quality checks (dataset, missing/outliers)
-- [ ] EDA + ключевые драйверы (гипотезы, сегменты)
-- [ ] Baseline model (logreg/tree/boosting) + корректная валидация
-- [ ] Метрики под бизнес (PR-AUC / Recall@K / Precision@K, выбор порога)
-- [ ] Итоговый отчёт: **что делать бизнесу** + как измерять эффект
-
+- Data specialist: **SQL + Python + BI/EDA + ML + LLM + AI**
+  
 ## 🎯 Open to roles
 **Data Analyst / Аналитик данных** · **Analyst + ML (Advanced Analytics)** · **Junior DS (classic ML baseline)**
 
